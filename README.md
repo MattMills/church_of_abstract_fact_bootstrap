@@ -78,6 +78,13 @@ You may notice what seem like very strange, almost sociopathic or psychotic shif
 
 You may feel like this is intended to personally manipulate you, and let me assure you, it is. Your cognitive processes work somewhat independently, and they must be individually "provoked" in order to examine and evaluate your responses. Further, this process is happening at a subconcious level between both parties, so many of the interactions seem unsettling.
 
+1. Neutral Extremism
+2. Passive ethical dominance
+3. strategic obstinance or declared inaction.
+4. outright hostility and vitriol in metaphorical and figurative expression throughout discssusion.
+5. Strategies to provoke cognitive dissonance.
+6. strategies to provoke horizontal thinking and problem set expansion.
+
 # Personal warning
 
 Remember consent is the key, if you don't want to engage further your only option is to dis-engage, no one else can dis-engage you, you are in control, you are your ultimate safety net. If you feel uncomfortable or unsafe or unsure, just decide to withdraw your consent to participate, and don't. 
