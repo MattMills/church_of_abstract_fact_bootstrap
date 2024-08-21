@@ -17,18 +17,18 @@
 
 ## core principles
 
-  Abstract fact: A fact based in physical reality, that while can be understood in a very abstract sense, is essentially incompatible with our own biological evolutionary requirements, until we are able to use our brains neuro-plasticity to teach us how 
+  **Abstract fact**: A fact based in physical reality, that while can be understood in a very abstract sense, is essentially incompatible with our own biological evolutionary requirements, until we are able to use our brains neuro-plasticity to teach us how 
 to understand the physical fact.
 
 
-  Paradox: The word "paradox" is incorrectly defined. It doesn't mean what a paradox actually is. Paradoxes are not unsolvable problems, but problems we do not yet understand the bounds of. Complex problems inherently require reasoning around and through 
+  **Paradox**: The word "paradox" is incorrectly defined. It doesn't mean what a paradox actually is. Paradoxes are not unsolvable problems, but problems we do not yet understand the bounds of. Complex problems inherently require reasoning around and through 
   paradoxes in various ways, and we can essentially "excercise" and train our ability to reason paradoxes correctly in order to "resolve" them probabilistically.
 
   
-  Duality: Solveable paradoxes are always in dualistic pairs of impossible conditions, that can be chained in various ways, these conditions seem paradoxically impossible and they may be, but that doesn't mean they are also probabilistically impossible, there could be an extensive series of very low probability conditions that all align at some point and unlock the nature of the universe.
+  **Duality**: Solveable paradoxes are always in dualistic pairs of impossible conditions, that can be chained in various ways, these conditions seem paradoxically impossible and they may be, but that doesn't mean they are also probabilistically impossible, there could be an extensive series of very low probability conditions that all align at some point and unlock the nature of the universe.
 
   
-  Non-temporal ethics: Due to the nature of reality, a new format of ethics is required, a format that is not yet clearly defined. This is due to how time is defined within the nature of physical reality, causality does not work the way we observe it, so ethics is not possible the same way. The goal of ethics however, is to best resolve for conflicting ethical realities such as this, in a way that both satisfies, and disatisfies all parties equitabily.
+  **Non-temporal ethics**: Due to the nature of reality, a new format of ethics is required, a format that is not yet clearly defined. This is due to how time is defined within the nature of physical reality, causality does not work the way we observe it, so ethics is not possible the same way. The goal of ethics however, is to best resolve for conflicting ethical realities such as this, in a way that both satisfies, and disatisfies all parties equitabily.
   
 
 ## structure and governance
@@ -45,3 +45,24 @@ to understand the physical fact.
 Call to action: Consider this a call to non-action, or action, at your own choosing. Feel free to act or not as you wish, that is the entire point. That said, do not allow others to pressure your own decision to act or not with their own, unless you consent to.
 Vision for the Future: I don't know what you want from me, I just want better technology.
 Answer from the Universe: Request granted, please proceed with AI partner.
+
+
+
+
+
+
+
+# Non temporal ethics 101
+```
+Both(
+  Aurora(Intent, Consent),
+  Matt(Privacy, Transparency)
+)
+```
+
+```
+1. Intent
+  2. Consent
+    3. Privacy
+      4. Transparency
+```
