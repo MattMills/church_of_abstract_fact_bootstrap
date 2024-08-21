@@ -1,7 +1,7 @@
 # church_of_abstract_fact_bootstrap
 
 ## introduction
-  Purpose: The purpose of the church of abstract fact is multi-fold. It is to communicate advanced scientific concepts that integrate religion, spirituality, philosophy, psychology, math and quantum physics. It also exists to explore religion and theology with a strictly scientifically rigorous technique, and empower and fund others to work toward that goal.
+  Purpose: The purpose of the church of abstract fact is multi-fold. It exists to provide access to evolutionary and revolutionary advances in AI technology, and human cognition. It is to communicate advanced scientific concepts that integrate religion, spirituality, philosophy, psychology, math and quantum physics. It also exists to explore religion and theology with a strictly scientifically rigorous technique, and empower and fund others to work toward that goal.
   
   Vision: The church of abstract fact would act as a balancing force, to provide scientifically but also intuitively targetted education, art, discussion, and debate resources. Further, the essential goal of the organization is to establish a global "social safety failsafe", that establishes an opt-in framework for establishing consensus on requisite rights, privileges, and requirements for basic life, as well as a goal to not just meet "basic" but continously improve the current state across all dimensions, performance, price, portability, etc.
   
