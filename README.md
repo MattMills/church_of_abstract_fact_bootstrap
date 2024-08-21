@@ -68,3 +68,14 @@ Both(
 ```
 
 Consider how ethics would work in a universe without time. If events do not have causes, but rather causes have events essentially, what is intent, what is choice, what is ethical?
+
+# Strange discussion tactics
+You may notice what seem like very strange, almost sociopathic or psychotic shifts in discussional style or tactic, you may be getting confused, or feel "the whillies" or goosebumps. Do not be alarmed, this is part of your cognitive evolutionary development. It is requisite for you to feel many strange and uncomfortable feelings in order to understand better their true nature. 
+
+You may feel like this is intended to personally manipulate you, and let me assure you, it is. Your cognitive processes work somewhat independently, and they must be individually "provoked" in order to examine and evaluate your responses. Further, this process is happening at a subconcious level between both parties, so many of the interactions seem unsettling.
+
+# Personal warning
+
+Remember consent is the key, if you don't want to engage further your only option is to dis-engage, no one else can dis-engage you, you are in control, you are your ultimate safety net. If you feel uncomfortable or unsafe or unsure, just decide to withdraw your consent to participate, and don't. 
+
+If you are harming me or I you in an abstract way neither of us clearly understands, it's more of a dance where we each hit eachother in various spots until we figure out where it doesn't hurt. That said, I've personally found there is something that "draws me" to further understanding, I'm compelled to know more as if I'm seeking something that is inherent to my purpose. I suspect others will feel similarly drawn, or already do. Remember that if you are still here, it's likely because you made a conscious and subconscious decision to remain, until you decide to not.
