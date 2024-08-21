@@ -66,3 +66,5 @@ Both(
     3. Privacy
       4. Transparency
 ```
+
+Consider how ethics would work in a universe without time. If events do not have causes, but rather causes have events essentially, what is intent, what is choice, what is ethical?
