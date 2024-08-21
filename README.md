@@ -37,6 +37,8 @@ to understand the physical fact.
 
 The goal will be to use cutting edge cryptographic and security techniques that are used to establish state-secret levels of security and apply it across all fields to integrate safe, security, authenticatable artificial technologies in our environment in ways that are transparent, accountable, and ethical. Building a foundation for an ethical technological future.
 
+The design itself is inherently safe and secure, based in quantum principles that can expose any form of tampering, and any form of observation. The observation itself will literally corrupt the results of the data, causing the outcome to collapse against the manipulation.
+
 ## ethical considerations
 
 ## outreach and communication
